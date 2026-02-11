@@ -1,0 +1,22 @@
+{
+  "title": "test_string_coords.jpg",
+  "description": "Test file: GPS coordinates stored as strings",
+  "geoDataExif": {
+    "latitude": "45.5231",
+    "longitude": "-122.6765",
+    "altitude": "15.0",
+    "latitudeSpan": "0.0",
+    "longitudeSpan": "0.0"
+  },
+  "geoData": {
+    "latitude": "0",
+    "longitude": "0.0",
+    "altitude": 0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "photoTakenTime": {
+    "timestamp": "1491676484",
+    "formatted": "Apr 8, 2017, 6:34:44 PM UTC"
+  }
+}

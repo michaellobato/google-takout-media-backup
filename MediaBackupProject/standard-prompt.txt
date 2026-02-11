@@ -1,0 +1,1 @@
+please review all of the @README.md , and @scripts/2-process-media.py and ensure all of the logic and documetnation match our current expectations, check edge cases and review all of the code for all programming best practices like error handling, idempotentcy, handling edge cases, data integrity, time and execution complexity, etc. and give me a summary of your findings

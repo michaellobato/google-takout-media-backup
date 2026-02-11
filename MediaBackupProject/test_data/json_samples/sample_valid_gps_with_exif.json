@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20170408_113443.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1491717853",
+    "formatted": "Apr 9, 2017, 6:04:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1491676484",
+    "formatted": "Apr 8, 2017, 6:34:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.569666700000006,
+    "longitude": -122.67413889999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.569666700000006,
+    "longitude": -122.67413889999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Sophia Grace Lobato"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOlq-q-EtpULw8NmEG7ZtKvh9Ejj-dMn25sPTrT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

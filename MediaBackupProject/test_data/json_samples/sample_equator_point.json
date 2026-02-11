@@ -1,0 +1,15 @@
+{
+  "title": "sample_equator_point.jpg",
+  "description": "Test file: Point on equator (lat=0, lon valid)",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 78.4677,
+    "altitude": 2810.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "photoTakenTime": {
+    "timestamp": "1234567890",
+    "formatted": "Feb 13, 2009, 11:31:30 PM UTC"
+  }
+}
